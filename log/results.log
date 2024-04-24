@@ -1,0 +1,11 @@
+2024-04-22 15:52:45 error [www]: GET /homeNot Found
+2024-04-24 11:28:09 error [www]: GET /static/js/src_views_System_Country_Country_tsx-data_image_svg_xml_base64_PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD-7d093b.chunk.jsNot Found
+2024-04-24 11:28:09 error [www]: GET /system/logo.icoNot Found
+2024-04-24 11:28:17 error [www]: GET /system/countryNot Found
+2024-04-24 11:29:41 error [www]: GET /wsNot Found
+2024-04-24 11:29:46 error [www]: GET /wsNot Found
+2024-04-24 11:29:50 error [www]: POST /usersNot Found
+2024-04-24 11:29:54 error [www]: GET /wsNot Found
+2024-04-24 11:30:10 error [www]: GET /wsNot Found
+2024-04-24 11:30:17 error [www]: POST /usersNot Found
+2024-04-24 11:36:17 error [www]: POST /Not Found
